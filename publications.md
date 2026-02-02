@@ -11,8 +11,34 @@ author_profile: true
 **Publications list is not generated yet.**
 {% else %}
 
-{% for p in pubs %}
-- **{{ p.title }}**{% if p.year %} ({{ p.year }}){% endif %}{% if p.venue %}. *{{ p.venue }}*{% endif %}{% if p.doi %}. DOI: [{{ p.doi }}](https://doi.org/{{ p.doi }}){% endif %}
+<ol reversed>
+{% for pub in site.data.publications %}
+  <li>
+
+    {% if pub.authors %}
+      {% assign authors = pub.authors | join: ", " 
+        | replace: "David Montgomery", "<strong>David Montgomery</strong>"
+        | replace: "D. Montgomery", "<strong>D. Montgomery</strong>" %}
+      {{ authors }}.<br>
+    {% endif %}
+
+    {% if pub.title %}
+    <em>{{ pub.title }}</em>,
+    {% endif %}
+
+    {% if pub.venue %}
+      {{ pub.venue }},
+    {% endif %}
+    {{ pub.year }}, 
+
+    {% if pub.doi %}
+    <a href="https://doi.org/{{ pub.doi }}" target="_blank">
+        doi:{{ pub.doi }}.
+    </a>
+    {% endif %}
+
+  </li>
 {% endfor %}
+</ol>
 
 {% endif %}
