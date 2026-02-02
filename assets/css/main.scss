@@ -21,6 +21,34 @@
   z-index: 9999;
 }
 
+/* Fix fixed masthead transparency / bleed-through */
+.masthead {
+  background: var(--background-color, #0b0f14);
+  opacity: 1;
+}
+
+/* Ensure the inner bar isn't transparent */
+.masthead__inner-wrap {
+  background: inherit;
+}
+
+/* Make masthead match page background */
+.masthead,
+.masthead__inner-wrap {
+  background: #0b0f14 !important;
+  border-bottom: none;
+}
+
+/* Remove the darker strip sometimes applied */
+.greedy-nav {
+  background: #0b0f14 !important;
+}
+
+/* Optional: make it visually separated */
+.masthead {
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.08);
+}
+
 /* Prevent content from sliding under the fixed masthead */
 .initial-content {
   padding-top: 3.5rem; /* tweak if your header height differs */
