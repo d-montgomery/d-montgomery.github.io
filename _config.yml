@@ -1,10 +1,36 @@
 title: David Montgomery
-description: Computational Scientist
-theme: jekyll-theme-minimal
+description: Computational science • CFD/combustion • HPC
+url: "https://d-montgomery.github.io"
+baseurl: ""
 
-header_pages:
-  - index.md
-  - research.md
-  - teaching.md
-  - music.md
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
 
+minimal_mistakes_skin: "default"
+
+# Top navigation is driven by _data/navigation.yml
+# Sidebar author profile
+author:
+  name   : "David Montgomery"
+  avatar : "/assets/images/headshot.jpg"
+  bio    : "Postdoctoral Researcher in Computational Science. Reactive flows, SAF, CO₂ desublimation, thrombosis modeling."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/d-montgomery"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:dmontgomery@mines.edu"
+
+# Defaults: turn on the author sidebar for all pages
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
