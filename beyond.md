@@ -1,6 +1,6 @@
 ---
-title: Beyond Work
-permalink: /extras/
+title: Beyond
+permalink: /beyond/
 layout: single
 author_profile: true
 ---

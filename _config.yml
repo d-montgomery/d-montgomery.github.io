@@ -14,7 +14,7 @@ minimal_mistakes_skin: "dark"
 author:
   name   : "David Montgomery"
   avatar : "/assets/images/headshot.png"
-  bio    : "Postdoctoral Researcher in Computational Science. Reactive flows, SAF, CO₂ desublimation, thrombosis modeling."
+  bio    : "Computational scientist specializing in reactive flows across energy systems and biomedicine, with expertise in high-fidelity simulation and open-source software development."
   links:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"

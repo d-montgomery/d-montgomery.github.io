@@ -29,3 +29,12 @@ Contributor to the AMReX-based Pele combustion suite for large-scale reacting fl
 - BS in Applied Mathematics with minor in Physics from Metropolitan State University (2018) 
 - MS in Computational and Applied Mathematics from Colorado School of Mines (2020) 
 - PhD in Computational and Applied Mathematics from Colorado School of Mines (2023) 
+
+### Awards
+
+**2025 — Outstanding Postdoc Innovation**  
+National Laboratory of the Rockies  
+
+**2020 — Outstanding Graduate Student Teaching**  
+Colorado School of Mines
+
