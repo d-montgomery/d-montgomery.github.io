@@ -1,0 +1,19 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Make the top navigation stick to the top */
+.masthead {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
+/* Prevent content from sliding under the fixed masthead */
+.initial-content {
+  padding-top: 4.5rem; /* tweak if your header height differs */
+}
