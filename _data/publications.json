@@ -1,0 +1,26 @@
+[
+  {
+    "title": "FuelLib (Fuel Library) [SWR-25-26]",
+    "year": 2025,
+    "venue": null,
+    "doi": "10.11578/DC.20250317.1"
+  },
+  {
+    "title": "Developing Open-Source Tools for Increasing the Efficiency of Synthetic Aviation Turbine Fuel Certification Process",
+    "year": 2025,
+    "venue": null,
+    "doi": "10.2172/2545705"
+  },
+  {
+    "title": "clotFoam: An Open-Source Framework to Simulate Blood Clot Formation Under Flow",
+    "year": 2023,
+    "venue": null,
+    "doi": "10.48550/ARXIV.2304.09180"
+  },
+  {
+    "title": "clotFoam: An open-source framework to simulate blood clot formation under arterial flow",
+    "year": 2023,
+    "venue": "SoftwareX",
+    "doi": "10.1016/j.softx.2023.101483"
+  }
+]
