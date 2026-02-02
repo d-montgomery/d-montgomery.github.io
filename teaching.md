@@ -22,5 +22,5 @@ author_profile: true
 
 ## Materials
 ### Ordinary Differential Equations
-- Mass-spring animations code: https://github.com/d-montgomery/massSpringDiffEQ
-- Videos of mass-spring animations: (link)
+- Mass-spring animations code: [https://github.com/d-montgomery/massSpringDiffEQ](https://github.com/d-montgomery/massSpringDiffEQ)
+  {% include video id="tSj_aM4kR6Y" provider="youtube" %}
