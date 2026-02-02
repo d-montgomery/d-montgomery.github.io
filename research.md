@@ -19,6 +19,8 @@ My research focuses on using computational mathematics to gain insight into reac
 Description + links:
 - Relevant publication: https://doi.org/10.1016/j.softx.2023.101483 
 - GitHub project: https://github.com/d-montgomery/clotFoam/tree/main/tutorials/Hjunction3D
+{% include video id="Kg1CA9HNLQ4" provider="youtube" %}
+
 
 ## Thrombosis
 - Relevant publication: https://doi.org/10.1016/j.softx.2023.101483 
