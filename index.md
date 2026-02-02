@@ -1,10 +1,8 @@
 ---
 title: Home
 permalink: /
-header:
-  overlay_image: /assets/images/banner.png
-  overlay_filter: 0.35
-  caption: ""
+layout: single
+author_profile: true
 ---
 
 David Montgomery is a Postdoctoral Researcher in Computational Science at the National Laboratory of the Rockies. :contentReference[oaicite:1]{index=1}

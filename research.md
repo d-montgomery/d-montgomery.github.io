@@ -1,9 +1,8 @@
 ---
 title: Research
-permalink: /research/
-header:
-  overlay_image: /assets/images/banner.png
-  overlay_filter: 0.35
+permalink: /teaching/
+layout: single
+author_profile: true
 ---
 
 ## Overview of Research
