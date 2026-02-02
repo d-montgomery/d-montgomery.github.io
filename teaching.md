@@ -6,21 +6,21 @@ author_profile: true
 ---
 
 ## Colorado School of Mines — Instructor
-- MATH 111 Calculus I :contentReference[oaicite:34]{index=34}
-- MATH 112 Calculus II :contentReference[oaicite:35]{index=35}
-- MATH 225 Ordinary Differential Equations :contentReference[oaicite:36]{index=36}
-- MATH 307 Intro to Scientific Computing :contentReference[oaicite:37]{index=37}
+- MATH 111 Calculus I 
+- MATH 112 Calculus II 
+- MATH 225 Ordinary Differential Equations 
+- MATH 307 Intro to Scientific Computing
 
 ## Colorado School of Mines — TA
-- MATH 225 Ordinary Differential Equations :contentReference[oaicite:38]{index=38}
+- MATH 225 Ordinary Differential Equations 
 
 ## Other Institutions — Instructor
-- Algebraic Literacy :contentReference[oaicite:39]{index=39}
+- Algebraic Literacy 
 
 ## Other Institutions — TA
-- College Algebra :contentReference[oaicite:40]{index=40}
+- College Algebra 
 
 ## Materials
 ### Ordinary Differential Equations
-- Mass-spring animations code: https://github.com/d-montgomery/massSpringDiffEQ :contentReference[oaicite:41]{index=41}
-- Videos of mass-spring animations: (link) :contentReference[oaicite:42]{index=42}
+- Mass-spring animations code: https://github.com/d-montgomery/massSpringDiffEQ
+- Videos of mass-spring animations: (link)
