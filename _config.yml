@@ -7,7 +7,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "dark"
 
 # Top navigation is driven by _data/navigation.yml
 # Sidebar author profile

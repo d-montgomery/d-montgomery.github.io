@@ -3,6 +3,13 @@
 
 @import "minimal-mistakes";
 
+/* Increase sidebar avatar size */
+.author__avatar img {
+  max-width: 180px; 
+  width: 180px;
+  height: 180px;
+}
+
 /* Make the top navigation stick to the top */
 .masthead {
   position: fixed;
@@ -15,5 +22,5 @@
 
 /* Prevent content from sliding under the fixed masthead */
 .initial-content {
-  padding-top: 4.5rem; /* tweak if your header height differs */
+  padding-top: 3.5rem; /* tweak if your header height differs */
 }
