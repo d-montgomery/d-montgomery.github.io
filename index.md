@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-David Montgomery is a Postdoctoral Researcher in Computational Science at the National Laboratory of the Rockies. I develop high-performance computational tools for reactive flow, combustion, and energy applications.
+I am a Postdoctoral Researcher in Computational Science at the National Laboratory of the Rockies. I develop high-performance computational tools for reactive flow, combustion, and energy applications.
 
 Research areas include:
 
