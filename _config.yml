@@ -13,7 +13,7 @@ minimal_mistakes_skin: "default"
 # Sidebar author profile
 author:
   name   : "David Montgomery"
-  avatar : "/assets/images/headshot.jpg"
+  avatar : "/assets/images/headshot.png"
   bio    : "Postdoctoral Researcher in Computational Science. Reactive flows, SAF, CO₂ desublimation, thrombosis modeling."
   links:
     - label: "GitHub"

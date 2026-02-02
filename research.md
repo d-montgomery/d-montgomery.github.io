@@ -2,7 +2,7 @@
 title: Research
 permalink: /research/
 header:
-  overlay_image: /assets/images/banner.jpg
+  overlay_image: /assets/images/banner.png
   overlay_filter: 0.35
 ---
 
