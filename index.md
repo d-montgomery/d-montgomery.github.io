@@ -9,10 +9,11 @@ I am a Postdoctoral Researcher in Computational Science at the National Laborato
 
 Research areas include:
 
-- Combustion and synthetic aviation turbine fuels (SATF)
-- Carbon capture and energy systems  
+- Combustion performance of synthetic aviation turbine fuels (SATF)
+- Multicomponent fuel property prediction
+- Carbon capture systems  
 - Multiphysics CFD  
-- Liquid fuel property prediction  
+- Blood clotting dynamics
 
 ### Featured Projects
 

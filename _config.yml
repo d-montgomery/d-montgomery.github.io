@@ -12,9 +12,9 @@ minimal_mistakes_skin: "dark"
 # Top navigation is driven by _data/navigation.yml
 # Sidebar author profile
 author:
-  name   : "David Montgomery"
+  #name   : "David Montgomery"
   avatar : "/assets/images/headshot.png"
-  bio    : "Computational scientist specializing in high-fidelity simulation of reactive flows across energy systems and biomedical applications."
+  bio : "Computational scientist specializing in reactive flows."
   links:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
