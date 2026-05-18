@@ -1,5 +1,21 @@
 [
   {
+    "title": "A three-dimensional shear dependent continuum model of platelet aggregation under flow",
+    "year": 2026,
+    "venue": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1014241",
+    "authors": [
+      "David Montgomery",
+      "Eric C. Dykeman",
+      "Eric S. Barrientos",
+      "Jake M. Grdadolnik",
+      "Kelli Henderickson",
+      "Aaron L. Fogelson",
+      "Keith B. Neeves",
+      "Karin Leiderman"
+    ]
+  },
+  {
     "title": "FuelLib (Fuel Library) [SWR-25-26]",
     "year": 2025,
     "venue": null,
@@ -36,6 +52,25 @@
       "David Montgomery",
       "Federico Municchi",
       "Karin Leiderman"
+    ]
+  },
+  {
+    "title": "PeleLMeX [SWR-22-48]",
+    "year": 2022,
+    "venue": null,
+    "doi": "10.11578/DC.20220621.1",
+    "authors": [
+      "Marcus Day",
+      "Lucas Esclapez",
+      "Nicholas Wimer",
+      "John Bell",
+      "Andrew Nonaka",
+      "Bruce Perry",
+      "David Montgomery",
+      "Sreejith Appukuttan",
+      "Ray Grout",
+      "Marc Henry de Frahan",
+      "Jon Rood"
     ]
   }
 ]
